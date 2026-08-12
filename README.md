@@ -426,3 +426,6 @@ Built with 🔥 for the open-weight model community.
 If MergeForge helped you ship a banger, [drop a star ⭐](https://github.com/vikrant-project/MergeForge)
 
 </div>
+
+
+<!-- Verified Co-Authored Architecture Update: 1786568146 -->
